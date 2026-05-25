@@ -63,3 +63,7 @@ Thumbs.db
 
 # Local testing configuration
 TESTING_INSTRUCTIONS.md
+
+# Operator-specific smoke probes (hardcoded location_ids, throwaway)
+smoke_test.py
+smoke_test_new_scopes.py
